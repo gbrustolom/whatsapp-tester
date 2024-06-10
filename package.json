@@ -1,0 +1,11 @@
+{
+  "name": "whatsapp-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "whatsapp-tester.js",
+  "author": "Grasiele Brustolom",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-types": "^0.1.228"
+  }
+}
