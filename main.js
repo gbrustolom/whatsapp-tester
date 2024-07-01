@@ -1,4 +1,4 @@
-const TOP_MENU_CLASS = '.x1c4vz4f .xs83m0k .xdl72j9 .x1g77sc7';
+const TOP_MENU_CLASS = '._ajv2._ajv1';
 
 window.onload = () => {
 
