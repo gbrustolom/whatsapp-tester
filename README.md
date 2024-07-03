@@ -1,4 +1,7 @@
 Orientações de Uso:
 - Utilize a versão PT-BR do Whatsapp;
 - Selecione uma conversa antes de utilizar a extensão;
-- Durante a execução do teste não interaja com a barra de rolagem e não fique inativo na tela da conversa. Certifique-se de dar alguns cliques na tela (melhoria a ser feita);
+- Durante a execução do teste não interaja com a barra de rolagem;
+
+Últimas Melhorias:
+- [01/07/2024] Adicionada função para não quebrar o teste em caso de inatividade;
