@@ -4,4 +4,4 @@ Orientações de Uso:
 - Durante a execução do teste não interaja com a barra de rolagem;
 
 Últimas Melhorias:
-- [01/07/2024] Adicionada função para não quebrar o teste em caso de inatividade;
+- [04/07/2024] Adicionada função para não quebrar o teste em caso de inatividade;
